@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Natty-or-not;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Realizei a criação do vídeo realista, utilizando IA generativa primeiramente na imagem inicial criada. E, com o resultado utilizando o mesmo prompt, e a mesma IA, criei o vídeo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leonardo.IA para a criação da imagem e do vídeo, e ChatGPT para me auxiliar a utilizar o github.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente criei a ideia do prompt. Trabalhei na criação do mesmo com o auxílio de uma IA. Na geração de imagem e vídeo, utilizei uma nova IA generativa para concluir o desafio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Consegui através do uso de IAs generativas um bom resultado de vídeo realista. Desenvolvi novas habilidades na criação de prompts e no uso de plataformas como o github. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Durante a conclusão do desafio tive dificuldades para me adaptar dentro do github, pude trabalhar na criação de um bom promt, e também utilizar novas IAs com que não havia tido contato ainda.
 ```
 
 ### Exemplos e Insigths
